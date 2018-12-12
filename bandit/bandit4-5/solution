@@ -1,0 +1,1 @@
+cat ./inhere/* | strings | egrep "[a-zA-Z0-9]{16}"

@@ -1,0 +1,2 @@
+du -a -b ./inhere | egrep "1033"
+cat ./inhere/maybehere07/.file2 | egrep "[a-zA-Z0-9]"

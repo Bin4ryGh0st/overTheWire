@@ -1,0 +1,1 @@
+strings data.txt | egrep '^[=]+\W[a-zA-Z0-9]{32}$'
